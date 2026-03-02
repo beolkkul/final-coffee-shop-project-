@@ -11,6 +11,6 @@ Welcome to `Soul infinity coffee shop page.`
 + Our coffee shop photos.
 + contact area.
 
-![img logo](./images%20need/logo.png)
+![img logo](./front/images%20need/logo.png)
 
 > Last Updated : 02/03/2025 
