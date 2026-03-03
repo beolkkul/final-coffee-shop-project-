@@ -5,7 +5,7 @@
 Welcome to `Soul infinity coffee shop page.`
 
 ### Our themes:
-+ Abou us.
++ About us.
 + Our menu.
 + Our team.
 + Our coffee shop photos.
@@ -13,4 +13,4 @@ Welcome to `Soul infinity coffee shop page.`
 
 ![img logo](./front/images%20need/logo.png)
 
-> Last Updated : 02/03/2025 
+> Last Updated : 03/03/2025 
